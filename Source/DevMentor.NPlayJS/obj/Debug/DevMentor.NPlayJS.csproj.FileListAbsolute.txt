@@ -1,0 +1,9 @@
+D:\Projects\DevMentor.NPlayJS\bin\Debug\DevMentor.NPlayJS.dll
+D:\Projects\DevMentor.NPlayJS\bin\Debug\DevMentor.NPlayJS.pdb
+D:\Projects\DevMentor.NPlayJS\obj\Debug\DevMentor.NPlayJS.dll
+D:\Projects\DevMentor.NPlayJS\obj\Debug\DevMentor.NPlayJS.pdb
+C:\GitHub\DevMentor.NPlayJS\Source\DevMentor.NPlayJS\bin\Debug\DevMentor.NPlayJS.dll
+C:\GitHub\DevMentor.NPlayJS\Source\DevMentor.NPlayJS\bin\Debug\DevMentor.NPlayJS.pdb
+C:\GitHub\DevMentor.NPlayJS\Source\DevMentor.NPlayJS\obj\Debug\DevMentor.NPlayJS.csprojResolveAssemblyReference.cache
+C:\GitHub\DevMentor.NPlayJS\Source\DevMentor.NPlayJS\obj\Debug\DevMentor.NPlayJS.dll
+C:\GitHub\DevMentor.NPlayJS\Source\DevMentor.NPlayJS\obj\Debug\DevMentor.NPlayJS.pdb

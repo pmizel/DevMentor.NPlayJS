@@ -1,0 +1,14 @@
+C:\Users\v562677\Documents\Visual Studio 2010\Projects\DevMentor.NPlayJS.DemoSite\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.DemoSite.dll
+C:\Users\v562677\Documents\Visual Studio 2010\Projects\DevMentor.NPlayJS.DemoSite\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.DemoSite.pdb
+C:\Users\v562677\Documents\Visual Studio 2010\Projects\DevMentor.NPlayJS.DemoSite\DevMentor.NPlayJS.DemoSite\obj\Debug\DevMentor.NPlayJS.DemoSite.dll
+C:\Users\v562677\Documents\Visual Studio 2010\Projects\DevMentor.NPlayJS.DemoSite\DevMentor.NPlayJS.DemoSite\obj\Debug\DevMentor.NPlayJS.DemoSite.pdb
+C:\Users\v562677\Documents\Visual Studio 2010\Projects\DevMentor.NPlayJS.DemoSite\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.dll
+C:\Users\v562677\Documents\Visual Studio 2010\Projects\DevMentor.NPlayJS.DemoSite\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.pdb
+C:\Users\v562677\Documents\Visual Studio 2010\Projects\DevMentor.NPlayJS.DemoSite\DevMentor.NPlayJS.DemoSite\obj\Debug\DevMentor.NPlayJS.DemoSite.csprojResolveAssemblyReference.cache
+C:\GitHub\DevMentor.NPlayJS\Demo\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.DemoSite.dll
+C:\GitHub\DevMentor.NPlayJS\Demo\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.DemoSite.pdb
+C:\GitHub\DevMentor.NPlayJS\Demo\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.dll
+C:\GitHub\DevMentor.NPlayJS\Demo\DevMentor.NPlayJS.DemoSite\bin\DevMentor.NPlayJS.pdb
+C:\GitHub\DevMentor.NPlayJS\Demo\DevMentor.NPlayJS.DemoSite\obj\Debug\DevMentor.NPlayJS.DemoSite.csprojResolveAssemblyReference.cache
+C:\GitHub\DevMentor.NPlayJS\Demo\DevMentor.NPlayJS.DemoSite\obj\Debug\DevMentor.NPlayJS.DemoSite.dll
+C:\GitHub\DevMentor.NPlayJS\Demo\DevMentor.NPlayJS.DemoSite\obj\Debug\DevMentor.NPlayJS.DemoSite.pdb
